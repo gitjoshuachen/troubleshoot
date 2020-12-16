@@ -3,14 +3,10 @@
 
 * [HOME](./)
 
-* [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
-  * [Java](./tutorials/java/index)
-
 * [Audio Issues](./audioIssue/index)
+  * [Chrome](./audioIssue/chrome/index)
+  * [Firefox](./audioIssue/firefox/index)
 
 * [About](./about/index)
 
 * [Contact](./contact/index)
-

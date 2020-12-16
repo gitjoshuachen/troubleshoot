@@ -10,9 +10,10 @@ Make sure that "Allow sites to play sound" is On.
 Make sure that Amazon Connect link is not listed in the Mute section.
 
 Add the following link to the Allow section:
+<br />
 <b>Insert link here</b>
 
-![](../chrome/chrome_settings_content_sound.jpg)
+![Chrome Settings Content Sound](../chrome/chrome_settings_content_sound.jpg)
 
 
 
@@ -24,4 +25,7 @@ chrome://settings/content/microphone
 Verify that there is nothing in the Block section.
 
 Verify that the following is in the Allow section:
+<br />
 <b>Insert link here</b>
+
+![Chrome Settings Content Microphone](../chrome/chrome_settings_content_microphone.jpg)
