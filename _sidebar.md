@@ -8,7 +8,7 @@
   * [Cloud](./tutorials/cloud/index)
   * [Java](./tutorials/java/index)
 
-* [Audio Issues] (./audioIssue/index)
+* [Audio Issues](./audioIssue/index)
 
 * [About](./about/index)
 
