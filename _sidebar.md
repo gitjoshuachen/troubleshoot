@@ -9,6 +9,8 @@
 
 * [VPN Issues](./vpnIssue/index)
 
+* [BlueZone Issues](./bluezoneIssue/index)
+
 * [About](./about/index)
 
 * [Contact](./contact/index)
