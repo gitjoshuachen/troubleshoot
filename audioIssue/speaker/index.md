@@ -1,18 +1,21 @@
-I am unable to hear the claimant.
+<h1 id="unable_hear_claimant">I am unable to hear the claimant</h1>
 
 <h2 id="exclusive_control">Make sure Teams can’t take exclusive control of the speaker.</h2>
 <br />
-1. Search for Control Panel in the Windows searchbar and open it up. In the top right, switch to View by: Large icons
+1. Search for Control Panel in the Windows search bar and open it up
+![Control Panel](./control_panel.png)
 
-2. Double-click: Sound 
+2. In the top right, switch to View by: Large icons
 
-3. On Playback tab, right click the active output device (the headset you are using)
+3. Double-click: Sound 
 
-4. Go to Properties
+4. On Playback tab, right click the active output device (the headset you are using)
 
-5. Go to Advanced tab and Uncheck "Allow applications to take exclusive control of this device".
+5. Go to Properties
 
-6. Click OK
+6. Go to Advanced tab and Uncheck "Allow applications to take exclusive control of this device".
+
+7. Click OK
 
 <br />
 <br />

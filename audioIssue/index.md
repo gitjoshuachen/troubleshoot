@@ -1,5 +1,5 @@
-Which browser are you currently using?
+Which issue are you currently experiencing?
 
-[Chrome](./audioIssue/chrome/index.md)
+[I am unable to hear the claimant](./audioIssue/speaker/index)
 
-[Firefox](./audioIssue/firefox/index.md)
+[The claimant cannot hear me](./audioIssue/microphone/index)
