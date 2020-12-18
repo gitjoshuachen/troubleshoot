@@ -7,6 +7,8 @@
   * [I am unable to hear the claimant](./audioIssue/speaker/index)
   * [The claimant cannot hear me](./audioIssue/microphone/index)
 
+* [VPN Issues](./vpnIssue/index)
+
 * [About](./about/index)
 
 * [Contact](./contact/index)
