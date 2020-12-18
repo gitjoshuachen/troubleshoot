@@ -11,6 +11,8 @@
 
 * [BlueZone Issues](./bluezoneIssue/index)
 
+* [DUA Worker App Issues](./duaIssue/index)
+
 * [About](./about/index)
 
 * [Contact](./contact/index)
