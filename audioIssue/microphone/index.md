@@ -1,6 +1,6 @@
 The claimant cannot hear me.
 
-<h2>Check that your browser has access to the microphone</h2>
+<h2 id="browser_access_microphone">Check that your browser has access to the microphone</h2>
 
 <h3>For Firefox</h3>
 1. Click on the site identity icon (the lock symbol) in the address bar. Then click the right arrow indicated below next to “Connection secure”
@@ -22,7 +22,7 @@ The claimant cannot hear me.
 4. Reload the Amazon Connect page
 
 
-<h2>Make sure Teams can’t take exclusive control of the microphone</h2>
+<h2 id="exclusive_control">Make sure Teams can’t take exclusive control of the microphone</h2>
 
 1. Search for Control Panel in the Windows searchbar and open it up. In the top right, switch to View by: Large icons
 
@@ -37,7 +37,7 @@ The claimant cannot hear me.
 6) Click OK.
 
 
-<h2>Make sure your browser has permission to use your microphone.</h2>
+<h2 id="browser_permission_microphone">Make sure your browser has permission to use your microphone.</h2>
 1. In the Windows search bar, search for "Sound settings"
 
 2. Click on "Microphone privacy settings" (top right in blue)

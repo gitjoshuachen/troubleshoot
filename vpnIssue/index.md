@@ -1,6 +1,6 @@
 VPN Issues
 
-<h2>I’m Unable to Connect</h2>
+<h2 id="unable_connect">I’m Unable to Connect</h2>
 1.	You can only connect to one VPN at a time. If you’re unable to connect to your regular VPN, please make sure you to disconnect from it, and then try your backup VPN.
 
 The links to the VPN connections are below:
@@ -12,7 +12,7 @@ The links to the VPN connections are below:
 3.	If issue persists, restart and try again 
 
 
-<h2>I Lose my WiFi Connection When I Connect to VPN</h2>
+<h2 id="lose_wifi">I Lose my WiFi Connection When I Connect to VPN</h2>
 1.	Verify that your WiFi connection is actually lost by seeing if you can go to your favorite website (sometimes VPN will make your computer think it is not connected even though it actually is)
 
 2.	If the WiFi connection is truly lost, click on the wifi symbol in the bottom taskbar near your clock and select “Network & Internet Settings”

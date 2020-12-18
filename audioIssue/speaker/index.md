@@ -1,6 +1,6 @@
 I am unable to hear the claimant.
 
-<h2>Make sure Teams can’t take exclusive control of the speaker.</h2>
+<h2 id="exclusive_control">Make sure Teams can’t take exclusive control of the speaker.</h2>
 <br />
 1. Search for Control Panel in the Windows searchbar and open it up. In the top right, switch to View by: Large icons
 
@@ -16,7 +16,7 @@ I am unable to hear the claimant.
 
 <br />
 <br />
-<h2>Check if your browser has permission to play sounds</h2>
+<h2 id="browser_permission_sound">Check if your browser has permission to play sounds</h2>
 1. In the Cortana search bar, search for “Sound mixer options”
 
 2. Ensure that Chrome and/or Firefox is unmuted.
