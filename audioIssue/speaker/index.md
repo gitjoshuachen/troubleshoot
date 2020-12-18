@@ -3,7 +3,8 @@
 <h2 id="exclusive_control">Make sure Teams can’t take exclusive control of the speaker.</h2>
 <br />
 1. Search for Control Panel in the Windows search bar and open it up
-![Control Panel](../speaker/control_panel.jpg)
+
+![Control Panel](./control_panel.jpg)
 
 2. In the top right, switch to View by: Large icons
 
