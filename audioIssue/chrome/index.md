@@ -13,7 +13,7 @@ Add the following link to the Allow section:
 <br />
 <b>Insert link here</b>
 
-![Chrome Settings Content Sound](../chrome/chrome_settings_content_sound.jpg)
+#![Chrome Settings Content Sound](../chrome/chrome_settings_content_sound.jpg)
 
 
 
@@ -28,4 +28,4 @@ Verify that the following is in the Allow section:
 <br />
 <b>Insert link here</b>
 
-![Chrome Settings Content Microphone](../chrome/chrome_settings_content_microphone.jpg)
+#![Chrome Settings Content Microphone](../chrome/chrome_settings_content_microphone.jpg)
