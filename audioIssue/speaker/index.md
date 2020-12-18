@@ -8,9 +8,13 @@
 
 2. In the top right, switch to View by: Large icons
 
-3. Double-click: Sound 
+![Control Panel Large Icons](./control_panel_switch_to_large_icons.jpg)
 
-4. On Playback tab, right click the active output device (the headset you are using)
+3. Click on Sound
+
+![Control Panel Sound](./control_panel_sound.jpg)
+
+4. On Playback tab, right click the active output device (for example, Jabra headset or AirPods)
 
 5. Go to Properties
 
