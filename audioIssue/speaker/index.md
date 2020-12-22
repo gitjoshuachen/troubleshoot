@@ -43,21 +43,35 @@
 7. Click OK
 </p>
 
-![Control Panel Sound Properties Advanced Tab](./sound_playback_advanced2.jpg)
+![Control Panel Sound Properties Advanced Tab 2](./sound_playback_advanced2.jpg)
 
-</p>
 </details>
 
 <details>
 <summary id="browser_permission_sound">Check if your browser has permission to play sounds.</summary>
 
 <p>
-1. In the Cortana search bar, search for “Sound mixer options”
-
-2. Ensure that Chrome and/or Firefox is unmuted.
-
-3. Change the input of the browser to your microphone.
-
-4. Change the output of the browser to your headset.
+1. In the Windows search bar, search for “Sound mixer options”
 </p>
+
+![Search for Sound Mixer Options](./sound_mixer_options1.jpg)
+
+<p>
+2. Ensure that your browser setting is unmuted and at a sufficient volume level (below screenshot is for Chrome, if you are using different browser such as Firefox, make sure that is unmuted)
+</p>
+
+![Sound Mixer Options Page](./sound_mixer_options2.jpg)
+
+<p>
+3. Change the input and output of the browser to your specific headset (example below is for AirPods, yours may be different)
+</p>
+
+![Sound Mixer Options Input Output Browser Volume](./sound_mixer_options3.jpg)
+
+<p>
+4. Also make sure the master volume is unmuted, at a sufficient volume level, and the input/output set to your headset (example below is for AirPods, yours may be different)
+</p>
+
+![Sound Mixer Options Input Output Master Volume](./sound_mixer_options4.jpg)
+
 </details>
