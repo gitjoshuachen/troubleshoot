@@ -13,7 +13,7 @@
 
 * [DUA Worker App Issues](./duaIssue/index)
 
-* Laptop Compliance Issues(./compliance/index)
+* [Laptop Compliance Issues](./compliance/index)
 
 * [About](./about/index)
 
