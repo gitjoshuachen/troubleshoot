@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .accordion {
   background-color: #eee;
@@ -36,11 +40,12 @@
   transition: max-height 0.2s ease-out;
 }
 </style>
+</head>
+<body>
+<h1 id="unable_hear_claimant">I am unable to hear the claimant</h1>
 
-<button id="unable_hear_claimant" class="accordion">I am unable to hear the claimant</button>
+<button id="exclusive_control" class="accordion">Make sure Teams can’t take exclusive control of the speaker.</button>
 <div class="panel">
-<h2 id="exclusive_control">Make sure Teams can’t take exclusive control of the speaker.</h2>
-<br />
 1. Search for Control Panel in the Windows search bar and open it up
 
 ![Control Panel](./control_panel.jpg)
@@ -61,7 +66,7 @@
 
 7. Click OK
 </div>
-<button id="browser_permission_sound" class="panel">Check if your browser has permission to play sounds</button>
+<button id="browser_permission_sound" class="accordion">Check if your browser has permission to play sounds</button>
 <div class="panel">
 1. In the Cortana search bar, search for “Sound mixer options”
 
