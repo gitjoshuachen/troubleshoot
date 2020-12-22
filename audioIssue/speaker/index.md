@@ -48,7 +48,7 @@
 </details>
 
 <details>
-<summary id="browser_permission_sound">Check if your browser has permission to play sounds.</summary>
+<summary id="windows_sound_settings">Check if Windows sound settings for your browser is configured to use your headset.</summary>
 
 <p>
 1. In the Windows search bar, search for “Sound mixer options”
@@ -73,5 +73,19 @@
 </p>
 
 ![Sound Mixer Options Input Output Master Volume](./sound_mixer_options4.jpg)
+
+</details>
+
+<details>
+<summary id="chrome_browser_sound_settings">If you are using Chrome, check that the call center URL is in the Allow section of the Chrome sound settings.</summary>
+
+1. 
+
+</details>
+
+<details>
+<summary id="firefox_browser_sound_settings">If you are using Firefox, ensure that the browser sound settings are configured for the call center URL.</summary>
+
+1.
 
 </details>
